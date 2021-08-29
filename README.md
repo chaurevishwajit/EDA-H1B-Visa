@@ -1,5 +1,9 @@
 # Exploratory Data Analysis of H-1B Visa
 
+# Medium Article
+
+https://medium.com/@chaure.v/exploratory-data-analysis-of-h-1b-visa-c157eb35243b
+
 ## Introduction
 
 The H-1B is an employment-based, non-immigrant visa category for temporary foreign workers in the 
